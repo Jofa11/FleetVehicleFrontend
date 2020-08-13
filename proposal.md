@@ -1,0 +1,45 @@
+# Proposal
+
+## Mission Statement
+
+For project three our group has decided to build a full stack application centered around the management of fleet vehicles. This app will allow the tracking of maintenance, last operator and the ability to add comments on the the vehicles performance.
+
+## SCRUM MASTER
+
+Cassio Hudson
+
+## Modules
+
+- company level
+- employee
+- vehicle
+
+## WireFrames
+
+## User Stories
+
+### Mvp
+
+- ability to view all my vehicles
+- comment an issue with vehicle
+- log weekly mileage
+- 
+
+### Silver
+
+- notification when oil change or service due
+- style rework
+- password protected company accounts
+- checkout vehicle and turn in
+
+### Gold
+
+- style rework
+- high milage service notifications such as spark plugs and transmission flush
+- add images of possible damage
+- enterprise level accounts
+
+### Platinum
+
+- integration with vehicles via obd2
+- gps integration 
