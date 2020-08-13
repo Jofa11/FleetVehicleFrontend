@@ -16,6 +16,10 @@ Cassio Hudson
 
 ## WireFrames
 
+![image](https://user-images.githubusercontent.com/62086912/90189293-c0911d00-dd71-11ea-8994-5953a43b6add.png)
+
+![image](https://user-images.githubusercontent.com/62086912/90189351-dd2d5500-dd71-11ea-98dd-21b8d77d8225.png)
+
 ## User Stories
 
 ### Mvp
@@ -23,7 +27,7 @@ Cassio Hudson
 - ability to view all my vehicles
 - comment an issue with vehicle
 - log weekly mileage
-- 
+-
 
 ### Silver
 
@@ -42,4 +46,4 @@ Cassio Hudson
 ### Platinum
 
 - integration with vehicles via obd2
-- gps integration 
+- gps integration
