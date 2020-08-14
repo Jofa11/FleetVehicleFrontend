@@ -35,6 +35,7 @@ Cassio Hudson
 - style rework
 - password protected company accounts
 - checkout vehicle and turn in
+- tests
 
 ### Gold
 
