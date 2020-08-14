@@ -28,7 +28,6 @@ Cassio Hudson
 - ability to view all my vehicles
 - comment an issue with vehicle
 - log weekly mileage
--
 
 ### Silver
 
